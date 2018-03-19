@@ -1,7 +1,7 @@
 # clrs-jupyter
 Working through Introduction to Algorithms, Third Edition (CLRS) in Python with Jupyter Notebook
 
-_Chapters 1 through 11_
+_Chapters 1 through 11_ will be covered by notebooks in this repo.
 
 Later chapters are specific to languages and domains other than Python and will be covered in another repo.
 

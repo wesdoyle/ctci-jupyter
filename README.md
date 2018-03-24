@@ -10,7 +10,7 @@ This is a work in progress. This repo serves as a journal for my progress throug
 
 | Chapter    | Description                                      | Notebook Link                |
 |------------|--------------------------------------------------|------------------------------|
-| 1          | Arrays and Strings                               |                              |
+| 1          | Arrays and Strings                               |[Ch 1](01_Arrays_and_Strings) |
 | 2          | Linked Lists                                     |                              |
 | 3          | Stacks and Queues                                |                              |
 | 4          | Trees and Graphs                                 |                              |

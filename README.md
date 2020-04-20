@@ -12,7 +12,7 @@ This is a work in progress. This repo serves as a journal for my progress throug
 |------------|--------------------------------------------------|------------------------------|
 | 1          | Arrays and Strings                               |[Ch 1](01_Arrays_and_Strings) |
 | 2          | Linked Lists                                     |[Ch 2](02_Linked_Lists)       |
-| 3          | Stacks and Queues                                |                              |
+| 3          | Stacks and Queues                                |[Ch 3](03_Stacks_and_Queues)  |
 | 4          | Trees and Graphs                                 |                              |
 | 5          | Bit Manipulation                                 |                              |
 | 6          | Math and Logic Puzzles                           |                              |

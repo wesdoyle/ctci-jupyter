@@ -1,9 +1,5 @@
-# clrs-jupyter
-Working through Introduction to Algorithms, Third Edition (CLRS) in Python with Jupyter Notebook
-
-_Chapters 1 through 11_ will be covered by notebooks in this repo.
-
-Later chapters are specific to particular languages and domains and will be covered in another repo.
+# ctci-jupyter
+Working through Cracking the Coding Interview in Python with Jupyter Notebook
 
 This is a work in progress. This repo serves as a journal for my progress through this book.
 
